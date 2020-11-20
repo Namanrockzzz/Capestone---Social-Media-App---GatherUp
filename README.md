@@ -16,5 +16,5 @@ You can use these 2 IDs to see this functionality:-
 
 <h3>Here's the link to my site :- https://gather-up-6268.herokuapp.com</h3>
 
-Note :- Although you can signup as a new memeber by using this link and post your pictures, comment on them and even like them from Home but your Wall will always be empty since Add Friend facility is not yet added (Will be added soon)😊.<br>To SignUP use - https://gather-up-6268.herokuapp.com/auth/signup
+Note :- Although you can signup as a new memeber by using this link and post your pictures, comment on them and even like them from Home but your Wall will always be empty since Add Friend facility is not yet added (Will be added soon)😊.<br>To SignUP - https://gather-up-6268.herokuapp.com/auth/signup
     
